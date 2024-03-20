@@ -1,4 +1,4 @@
-// Arrays | Arrglos
+// Arrays | Arrgelos
 let misNumerosFavoritos = [7, 77, 777, 23, 3, 5]
 let misNombresFavoritos = ["Chrisitan", "Victoria", "Jose", "Maria"]
 let misMascotas = [{nombre: "Kiri", especie: "gato"}, {nombre: "Momo", especie: "perro"}]
@@ -9,7 +9,7 @@ const nuevoArreglo = [...misNombresFavoritos, "David"]
 console.log(misNombresFavoritos)
 console.log(nuevoArreglo)
 
-// Borrar elementos de un arrglo
+// Borrar elementos de un arreglo
 misNombresFavoritos.splice(2, 1)
 console.log(misNombresFavoritos)
 

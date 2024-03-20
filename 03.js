@@ -57,7 +57,7 @@ console.log( nombre )
 console.log( precio )
 console.log( disponible )
 
-// Object literal Enhecement
+// Object literal Enhancement
 const user = "Chris"
 const authenticated = true
 
@@ -68,7 +68,7 @@ const newObject = {
 
 console.table(newObject)
 
-// Objectos - Destructuring con 2 o más objectos con el mis nobre de propiedad
+// Objectos - Destructuring con 2 o más objectos con el mismo nombre de propiedad
 
 const cliente = {
     nombre: "Christian", 
